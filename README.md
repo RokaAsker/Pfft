@@ -2,7 +2,7 @@
 this is for practice not for full user satisfaction
 
 repo: Pfft
-Author: Tyler McNutt
+Author: Roka Asker
 what it is:
 A simple app that will allow users for a small guild to have some fun.
 This is to help me develop as a programmer and as a project leader if the need arises.
